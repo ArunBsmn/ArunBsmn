@@ -10,21 +10,18 @@ GitHub: https://github.com/ArunBsmn
 
 ## About Me
 
-I am a PhD researcher and early-career academic working on **applications of artificial intelligence**, with a primary focus on **EEG-based imagined speech decoding** and **explainable AI (XAI)**.
+I am a PhD researcher and early-career academic working on **applications of artificial intelligence**, with a primary focus on EEG-based imagined speech decoding and explainable AI (XAI).
 
-My research lies at the intersection of machine learning, signal processing, and computational neuroscience, aiming to build **interpretable and reliable AI systems** for neural data. While my current work centers on EEG signal analysis, my broader interests span **applied AI across domains**, including perception, autonomy, and human-centered systems.
+My research lies at the intersection of machine learning, signal processing, and computational neuroscience, aiming to build AI systems for decoding neural data. While my current work centers on EEG signal analysis, my broader interests span applied AI across domains.
 
-I am actively seeking **postdoctoral research opportunities** and **applied ML/AI research roles**.
+I am currently seeking **postdoctoral research opportunities** in applied ML/AI research roles.
 
 ---
 
-## Research Interests
+## Current area of research
 
 - Imagined speech decoding from EEG
 - Explainable artificial intelligence (XAI)
-- Machine learning for neural and biomedical signals
-- Applications of AI in perception and autonomy
-- Interpretable deep learning models
 
 ---
 
@@ -39,6 +36,3 @@ I am actively seeking **postdoctoral research opportunities** and **applied ML/A
 
 - Hugging Face Hub and model ecosystems
 - AI applications in robotics
-- Reproducible and interpretable ML research
-- Explainable and trustworthy AI
-- Applied machine learning for real-world systems
