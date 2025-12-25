@@ -1,10 +1,11 @@
 # Arun Balasubramanian
 
-PhD Researcher in Computer Science & Engineering  
+PhD Scholar in Computer Science & Engineering  
 Indian Institute of Technology, Kharagpur  
 
 ORCID: https://orcid.org/0009-0006-7910-6458  
 GitHub: https://github.com/ArunBsmn
+LinkedIn: www.linkedin.com/in/arun-bsmn
 
 ---
 
