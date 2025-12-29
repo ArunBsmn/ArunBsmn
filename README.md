@@ -6,6 +6,8 @@ Indian Institute of Technology, Kharagpur
 * ORCID: https://orcid.org/0009-0006-7910-6458  
 * GitHub: https://github.com/ArunBsmn
 * LinkedIn: www.linkedin.com/in/arun-bsmn
+* Kaggle: https://www.kaggle.com/arunbsmn
+* HuggingFace: https://huggingface.co/arunbsmn
 
 ---
 
