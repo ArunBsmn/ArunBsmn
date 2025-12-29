@@ -23,7 +23,8 @@ I am currently seeking **postdoctoral research opportunities** in applied ML/AI 
 
 ## Skills
 
-- **Programming:** Python (PyTorch, scikit-learn, OpenCV), C  
+- **Programming:** Python (PyTorch, scikit-learn, OpenCV), C
+- **Tools:** LaTeX, Matlab (Simulink), Solidworks, Arduino IDE
 - **Domains:** EEG signal processing, explainable AI, applied machine learning
 
 ---
